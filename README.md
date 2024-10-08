@@ -1,0 +1,1 @@
+This is final year group project. Using Deep Convolutional Neural Network (CNN), we can detect three Neurodegenerative Diseases: Alzheimer, Parkinson and Dementia at a same time. A pre-trained model named Resnet50 with a transfer learning technique we created our model.
